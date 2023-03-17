@@ -1,3 +1,17 @@
+# Crypto List App
+
+This is just a simple app to list top 10 crypto currency.
+
+## API Source
+
+This app is using api from [rapidapi.com](https://rapidapi.com/Coinranking/api/coinranking1)
+
+## Getting Started
+
+To run this app please do `npm install`. Please update run command `cp .env.example > .env`.
+
+After all setup done please do all instructions as following:
+
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
